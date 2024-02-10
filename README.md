@@ -1,7 +1,14 @@
 # ECON10106-Group18
 
 Members:
+- Ralph Sleiman
+- Cem Tezel
+- Idil Zorlu
+- Richard Kundratitz
+- Khairunnisa Azwa
 
+
+Professors Input:
 # Grades
 PS1: 10/10, perfect!
 
