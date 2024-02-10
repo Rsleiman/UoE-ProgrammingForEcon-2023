@@ -1,4 +1,4 @@
-# ECON10106-Group18
+# The University of Edinburgh: ECON10106-Group18
 
 Members:
 - Ralph Sleiman
